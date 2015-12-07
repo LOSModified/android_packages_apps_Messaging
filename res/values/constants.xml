@@ -36,7 +36,7 @@
     <string name="auto_retrieve_mms_when_roaming_pref_key" translatable="false">buglesub_auto_retrieve_mms_when_roaming</string>
     <bool name="auto_retrieve_mms_when_roaming_pref_default" translatable="false">false</bool>
     <string name="group_mms_pref_key" translatable="false">buglesub_group_messaging</string>
-    <bool name="group_mms_pref_default" translatable="false">true</bool>
+    <bool name="group_mms_pref_default" translatable="false">false</bool>
     <string name="mms_phone_number_pref_key" translatable="false">buglesub_mms_phone_number</string>
 
     <integer name="mediapicker_transition_duration">600</integer><!-- ms -->
